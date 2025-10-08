@@ -65,6 +65,7 @@ To support PATCH & DELETE in HTML forms, the project uses:
 ```js
 const methodOverride = require("method-override");
 app.use(methodOverride("_method"));
+```
 
 ## 🧠 What I Learned
 
