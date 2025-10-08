@@ -81,8 +81,8 @@ app.use(methodOverride("_method"));
 
 ## 🖼️ Screenshots
 
-![Home Page](assets\HomePage.JPG)
-![Paths](assets\Paths.JPG)
+![Home Page](./assets/HomePage.JPG)
+![Paths](./assets/Paths.JPG)
 
 ## 🏃 How to Run Locally
 
